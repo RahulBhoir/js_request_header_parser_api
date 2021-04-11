@@ -1,0 +1,14 @@
+{
+  "name": "request_header_parser",
+  "version": "1.0.0",
+  "description": "To get user IP address, language of the browser, and software. Output is  JSON object",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahul Bhoir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
